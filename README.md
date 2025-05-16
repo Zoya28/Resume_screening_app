@@ -62,7 +62,7 @@ streamlit run main.py
 ```
 resume-screening-app/
 │
-├── main.py                # Streamlit frontend
+├── app.py                # Streamlit frontend
 ├── backend.py             # Helper functions and logic
 ├── requirements.txt       # Python dependencies
 ├── .env                   # API keys (not included in repo)
