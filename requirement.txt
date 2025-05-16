@@ -1,0 +1,11 @@
+streamlit
+dotenv
+langchain
+pypdf
+pinecone
+langchain_pinecone
+langchain_groq
+uuid
+langchain_core
+langchain_huggingface
+os
